@@ -22,19 +22,24 @@ body {
   background-position: left;
 }
 
-/* Acerca de mi */
-
-.breef_description{
-  margin
+/* Mis trabajos */
+#Mis-trabajos {
+  background-color: #cccccc;
 }
 
-/* Mis trabajos */
-
 #Mis-trabajos .image-top {
-  height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  height:250px;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+.line {
+  width: 100%;
+  height: 1pt;
+  text-align: center;
+  display: flex;
+  margin-top: 2rem;
 }
 
 #Mis-trabajos a{
