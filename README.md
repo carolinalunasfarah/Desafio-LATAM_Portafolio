@@ -1,6 +1,6 @@
 # Desafio-LATAM_Portafolio
 
-<p>Portafolio examen final</p>
+<p>Portafolio examen final Fundamentos Desarrollo Web</p>
 
-### Trabajo colaborativo
+### Trabajo colaborativo GitHub
 <a href="https://github.com/Longat80/Portafolio">Trabajo colaborativo</a>
