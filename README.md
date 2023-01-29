@@ -1,6 +1,7 @@
 # Desafio-LATAM_Portafolio
 
-<a href="https://www.lomography.es/homes/ninalemoons/albums/2391538-2013-punta-del-este-uruguay" target="_blank" rel="noopener noreferrer"><p>Portafolio examen final Fundamentos Desarrollo Web</p></a>
+## Visita la web de mi portafolio
+<a href="https://carolinalunasfarah.github.io/Desafio-LATAM_Portafolio/">Portafolio Carolina Lunas</a>
 
 ### Trabajo colaborativo GitHub
 <a href="https://github.com/Longat80/Portafolio">Trabajo colaborativo</a>
