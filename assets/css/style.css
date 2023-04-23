@@ -3,7 +3,7 @@ body {
 }
 
 /* barra navegación */
-.navbar_title{
+.navbar_title {
   font-size: 16px;
   font-weight: bold;
   color: #c5c5c5;
@@ -23,7 +23,7 @@ body {
   background-position: left;
 }
 
-.header_description a{
+.header_description a {
   text-decoration: none;
 }
 
@@ -32,21 +32,19 @@ body {
   background-color: #cccccc;
 }
 
-
 #Mis-trabajos .image-top {
-  height:250px;
-  background-repeat:no-repeat;
-  background-size:cover;
-  background-position:center;
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
 
 .line {
   width: 100%;
   height: 2pt;
 }
 
-#Mis-trabajos a{
+#Mis-trabajos a {
   text-decoration: none;
 }
 
@@ -61,12 +59,12 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 }
 
 /* footer */
-.footer a{
+.footer a {
   text-decoration: none;
 }
